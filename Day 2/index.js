@@ -104,3 +104,4 @@ for (let i = 0; i < users.length; i++) {
     if (users[i].status === true) {
         console.log(users[i]);
     }
+}
